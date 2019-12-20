@@ -12,6 +12,7 @@ ln -s see eh/dee
 ./eh/aware-of-path.sh
 './eh/bees knees/aware-of-path.sh'
 ./eh/dee/aware-of-path.sh
+./eh/see/aware-of-path.sh
 
 tree
 
